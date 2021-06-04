@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5052e1bc-f816-48a0-bb61-0f36fda4c124" name="Default Changelist" comment="updating">
+      <change afterPath="$PROJECT_DIR$/testplots.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/foliumtests.py" beforeDir="false" afterPath="$PROJECT_DIR$/foliumtests.py" afterDir="false" />
     </list>
@@ -28,8 +29,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/test.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\josh\Documents\GitHub\jf577" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.default">
     <configuration name="Unnamed" type="CompoundRunConfigurationType">
