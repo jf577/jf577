@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5052e1bc-f816-48a0-bb61-0f36fda4c124" name="Default Changelist" comment="updating">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/map1.html" beforeDir="false" afterPath="$PROJECT_DIR$/map1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testplots.py" beforeDir="false" afterPath="$PROJECT_DIR$/testplots.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,8 +105,8 @@
     <list>
       <item itemvalue="Compound.Unnamed" />
       <item itemvalue="Python.default" />
-      <item itemvalue="Python.testplots" />
       <item itemvalue="Python.foliumtests" />
+      <item itemvalue="Python.testplots" />
     </list>
     <recent_temporary>
       <list>
